@@ -41,6 +41,7 @@
 
 <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
 
+<br />
 ### Primary repository :
 <a href="https://github.com/Zalbani/Templates">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Templates" />
