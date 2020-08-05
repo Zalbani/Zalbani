@@ -39,14 +39,14 @@
 
 ### My Github Stats :
 
-<img align="left" alt="Zalbani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&hide_border=false&title_color=000000&hide_title=true&icon_color=53aedb" />
 <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+### Primary repository :
+<a href="https://github.com/Zalbani/Templates">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Templates" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Zalbani/Nuxt-Portfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Nuxt-Portfolio" />
 </a>
 
 [website]: https://www.zalbani.dev/
