@@ -1,6 +1,6 @@
-### Hi there, I'm Alban - aka Zalbani 👋
+## Hi, Zalbani there 👋
 
-## I'm a Student, Handmaker , Developer, and a G@M3R!
+### I'm a Student, Handmaker , Developer, and a G@M3R!
 - 🔭 I’m currently working on a huge [project][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborator to create amazing website
@@ -41,6 +41,7 @@
 
 <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
 
+<br />
 <br />
 <br />
 <br />
