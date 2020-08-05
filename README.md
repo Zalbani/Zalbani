@@ -38,7 +38,7 @@
 <br />
 
 <img align="left" alt="Zalbani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&hide_border=true&title_color=#000000" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact)](https://github.com/Zalbani)
 
 
 [website]: https://www.zalbani.dev/
