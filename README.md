@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<img align="left" alt="Zalbani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&hide_border=true&title_color=#000000" />
+<img align="left" alt="Zalbani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&hide_border=false&title_color=000000" />
 <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
 
 [website]: https://www.zalbani.dev/
