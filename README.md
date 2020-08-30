@@ -31,8 +31,8 @@
 <img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
+<!-- <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> -->
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -45,15 +45,27 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <details>
     <summary>👀 Github Stats</summary>
     <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
-    <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&hide_border=true" />
+    <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&layout=compact" />
 </details>
 
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <details>
     <summary>🚀 Important Repos</summary>
