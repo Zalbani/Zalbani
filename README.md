@@ -55,13 +55,14 @@
 
 ---
 
+<!--
 <details>
     <summary>👀 Github Stats</summary>
     <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
     <br/>
     <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&layout=compact" />
 </details>
-
+-->
 
 
 [website]: https://www.zalbani.dev/
