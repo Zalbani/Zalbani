@@ -41,7 +41,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
 
-<br/>
+<br/><br/><br/>
+
 <details>
     <summary>🚀 Important Repos</summary>
     <a href="https://github.com/Zalbani/Templates">
@@ -50,6 +51,8 @@
     <a href="https://github.com/Zalbani/Nuxt-Portfolio">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Nuxt-Portfolio" />
     </a>
+    <br/>
+    <br/>
     <br/>
 </details>
 
