@@ -51,10 +51,9 @@
     <a href="https://github.com/Zalbani/Nuxt-Portfolio">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Nuxt-Portfolio" />
     </a>
-    <br/>
-    <br/>
-    <br/>
 </details>
+
+---
 
 <details>
     <summary>👀 Github Stats</summary>
