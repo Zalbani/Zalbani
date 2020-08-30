@@ -1,17 +1,15 @@
 ## Hi, Zalbani there 👋
 
+[![Website](https://img.shields.io/website?label=zalbani.dev&logo=personal-website&style=for-the-badge&url=https%3A%2F%2Fzalbani.dev%2F)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/AlbanPierson_?color=%231DA1F2&logo=twitter&style=for-the-badge)][twitter]
+
+
 ### I'm a Student, Handmaker , Developer, and a G@M3R!
 - 🔭 I’m currently working on a huge [project][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborator to create amazing website
 - 🥅 2020 Goals: Aprehending new technologies
 - ⚡ Fun fact: I'm french but i don't like cheese
-
-### Connect with me:
-
-[<img align="left" alt="Zalbani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Zalbani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Zalbani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -43,29 +41,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
+---
 <details>
     <summary>👀 Github Stats</summary>
     <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
     <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&layout=compact" />
 </details>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <details>
     <summary>🚀 Important Repos</summary>
