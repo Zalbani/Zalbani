@@ -43,6 +43,7 @@
 
 <br/><br/><br/>
 
+<!--
 <details>
     <summary>🚀 Important Repos</summary>
     <a href="https://github.com/Zalbani/Templates">
@@ -52,10 +53,6 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Nuxt-Portfolio" />
     </a>
 </details>
-
----
-
-<!--
 <details>
     <summary>👀 Github Stats</summary>
     <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
