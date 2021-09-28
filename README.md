@@ -5,11 +5,12 @@
 
 
 ### I'm a Student, Handmaker , Developer, and a G@M3R!
-- 🔭 I’m currently working from home for [Bibliotheque de lyon][https://github.com/Bibliotheque-Lyon]!
+- 🔭 I’m currently working from home for [Bibliotheque de lyon](https://github.com/Bibliotheque-Lyon)!
 - 🌱 I’m currently testing a lot of new technologies
-<!-- - 👯 I’m looking to collaborator to create amazing website -->
 - 🥅 2021 Goals: Finish and deploy a hudge project
 - ⚡ Fun fact: I'm french but i don't like cheese
+<!-- - 👯 I’m looking to collaborator to create amazing website -->
+
 
 <br />
 
