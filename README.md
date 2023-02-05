@@ -1,6 +1,6 @@
 ## Hi, Zalbani there 👋
 
-[![Website](https://img.shields.io/website?label=zalbani.dev&logo=personal-website&style=for-the-badge&url=https%3A%2F%2Fzalbani.dev%2F)]
+[![Website](https://img.shields.io/website?label=zalbani.dev&logo=personal-website&style=for-the-badge&url=https%3A%2F%2Fzalbani.dev%2F)](https://zalbani.dev/)
 
 ### I'm a Student, Handmaker , Developer, and a G@M3R!
 - 🔭 I’m currently working for [Socios](https://www.socios.com/)!
