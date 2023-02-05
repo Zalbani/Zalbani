@@ -1,7 +1,5 @@
 ## Hi, Zalbani there 👋
 
-[![Website](https://img.shields.io/website?label=zalbani.dev&logo=personal-website&style=for-the-badge&url=https%3A%2F%2Fzalbani.dev%2F)](https://zalbani.dev/)
-
 ### I'm a Student, Handmaker , Developer, and a G@M3R!
 - 🔭 I’m currently working for [Socios](https://www.socios.com/)!
 - 🌱 I’m currently testing a lot of new technologies
@@ -36,23 +34,6 @@
 <img align="left" alt="Ethereum" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" />
 
 
+### Websites :
 
-<br/><br/><br/>
-
-<!--
-<details>
-    <summary>🚀 Important Repos</summary>
-    <a href="https://github.com/Zalbani/Templates">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Templates" />
-    </a>
-    <a href="https://github.com/Zalbani/Nuxt-Portfolio">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zalbani&repo=Nuxt-Portfolio" />
-    </a>
-</details>
-<details>
-    <summary>👀 Github Stats</summary>
-    <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalbani&layout=compact" />
-    <br/>
-    <img align="left" alt="Zalbani's top language Stats" src="https://github-readme-stats.vercel.app/api?username=Zalbani&show_icons=true&layout=compact" />
-</details>
--->
+[![Website](https://img.shields.io/website?label=zalbani.dev&logo=personal-website&style=for-the-badge&url=https%3A%2F%2Fzalbani.dev%2F)](https://zalbani.dev/)
