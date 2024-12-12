@@ -2,7 +2,7 @@
 
 ### I'm a Developer, Handmaker and a G@M3R!
 
-- 🔭 I’m currently working for [Socios](https://www.socios.com/)!
+- 🔭 I’m currently working for [Chiliz](https://www.chiliz.com/)!
 - 🌱 I’m currently testing a lot of new technologies
 - ⚡ Fun fact: I'm french but i don't like cheese
 
@@ -32,9 +32,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
 <img align="left" alt="Ethereum" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" />
-
-<br />
-
-### Websites :
-
-[![Website](https://img.shields.io/website?label=zalbani.dev&logo=personal-website&style=for-the-badge&url=https%3A%2F%2Fzalbani.dev%2F)](https://zalbani.dev/)
