@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working for [Socios](https://www.socios.com/)!
 - 🌱 I’m currently testing a lot of new technologies
-- 🥅 2023 Goals: Redesign my portfolio
 - ⚡ Fun fact: I'm french but i don't like cheese
 
 <br />
