@@ -38,13 +38,11 @@
 
 <!-- AI -->
 <img align="left" alt="Claude" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Claude-ai-icon.png" />
-<img align="left" alt="Gemini" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/80px-Google_Gemini_icon_2025.svg.png" />
 <img align="left" alt="Ollama" width="26px" src="https://avatars.githubusercontent.com/u/151674099?s=48&v=4" />
 
 <!-- Smart home & Media -->
 <img align="left" alt="Home Assistant" width="26px" src="https://brands.home-assistant.io/homeassistant/icon.png" />
 <img align="left" alt="Plex" width="26px" src="https://avatars.githubusercontent.com/u/324832?s=48&v=4" />
-<img align="left" alt="Minecraft" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Minecraft_cube.svg/96px-Minecraft_cube.svg.png" />
 
 
 <br />
