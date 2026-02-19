@@ -9,8 +9,6 @@
 - 🏍️ Motorcyclist in my spare time
 - 🛠️ About to dive into **3D printing**
 
-<br />
-
 ### Languages and Tools:
 
 <!-- Languages -->
