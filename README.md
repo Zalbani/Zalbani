@@ -7,7 +7,7 @@
 - 🎮 Gamer on PC & PS5
 - 🧗 Sports: climbing and diving
 - 🏍️ Motorcyclist in my spare time
-- 🛠️ About to dive into **3D printing**
+- 🛠️ **3D printing** a lot of random stuff
 
 ### Languages and Tools:
 
